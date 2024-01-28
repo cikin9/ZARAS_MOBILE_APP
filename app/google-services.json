@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "865061236724",
+    "firebase_url": "https://zaras-4926d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "zaras-4926d",
+    "storage_bucket": "zaras-4926d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865061236724:android:6c77a47e2edd25c362d3a1",
+        "android_client_info": {
+          "package_name": "com.example.zaras"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxEE1GuIVqG3WUyYrD6C5HxsKz933U9x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

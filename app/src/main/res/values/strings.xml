@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Add these lines in the strings.xml file -->
+    <string name="app_name">ZARAS</string>
+    <string name="item_details_title">Item Details</string>
+
+    <string-array name="payment_methods">
+<!--        <color name="black">#FF000000</color>-->
+        <item>Online Payment</item>
+        <item>Cash On Delivery</item>
+    </string-array>
+
+    <string name="payment_method_prompt">Select Payment Method</string>
+
+</resources>

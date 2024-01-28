@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+<!--    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">-->
+<!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+
+<!--    </style>-->
+
+<!--    <style name="ToolbarTheme" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">-->
+
+<!--    </style>-->
+
+    <!-- This configures the styles for the title within the Toolbar  -->
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">21sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:popupBackground">#FFFFFF</item>
+        <item name="android:colorBackground">#FFFFFF</item>
+
+    </style>
+
+    <style name="SpinnerPopupTheme" parent="ThemeOverlay.AppCompat.Light">
+
+    </style>
+
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+    <!--<resources>-->
+    <!--    -->
+
+    <!--    </style>-->
+    <!--</resources>-->
+
+
+</resources>
